@@ -14,4 +14,4 @@ CSS Grid
 Mobile-first workflow
 Author
 Frontend Mentor - @camiligomes
-Twitter - @GamiliGomesz
+Twitter - @CamiliGomesz
